@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:wang123582/shushi.github.io
+  branch: main
